@@ -1,2 +1,2 @@
 # Propaganda-test
-云
+练习
